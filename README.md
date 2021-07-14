@@ -1,4 +1,4 @@
-# Project: Data Lake
+# Project: Processing with Spark into Data Lake
 
 ## Background
 
